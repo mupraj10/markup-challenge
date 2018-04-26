@@ -1,0 +1,20 @@
+/* line 1, app/scss/styles.scss */
+* {
+  box-sizing: border-box;
+  font-family: Arial, "Helvetica Neue"; }
+
+/* line 6, app/scss/styles.scss */
+body {
+  background: pink; }
+
+/* line 11, app/scss/styles.scss */
+.inner-section {
+  padding: 60px 120px 120px 120px;
+  border: 2px solid black; }
+
+/* line 16, app/scss/styles.scss */
+.box-section {
+  padding: 60px 120px 120px 120px;
+  border: 2px solid black; }
+
+/*# sourceMappingURL=../../scss */
